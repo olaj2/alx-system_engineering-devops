@@ -1,1 +1,1 @@
-Script that list all hidden files both in the current and root directory and the boot directory
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp
