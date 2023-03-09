@@ -1,1 +1,1 @@
-My first shell basic
+0. Where am I?
